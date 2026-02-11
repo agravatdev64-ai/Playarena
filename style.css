@@ -1,0 +1,812 @@
+body{
+    font-family:'Poppins',sans-serif;
+    background:#eaf2ff;
+}
+/* ===== ADMIN NAVBAR ===== */
+.navbar{
+    background:#1e40af;
+    box-shadow:0 6px 18px rgba(0,0,0,0.15);
+}
+.navbar-brand{
+    font-weight:700;
+    color:#ffffff !important;
+    font-size:1.3rem;
+}
+.nav-link{
+    color:#e0e7ff !important;
+    margin:0 12px;
+    font-weight:500;
+    position:relative;
+}
+.nav-link:hover{
+    color:#ffffff !important;
+}
+
+/* ===== ACTIVE MENU ===== */
+.nav-link.active{
+    color:#ffffff !important;
+    font-weight:600;
+}
+.nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-6px;
+    width:100%;
+    height:3px;
+    background:#ffffff;
+    border-radius:2px;
+}
+
+/* FORM CARD */
+.admin-content{
+    margin-top:130px;
+    background:#ffffff;
+    padding:40px;
+    border-radius:18px;
+    box-shadow:0 14px 40px rgba(30,64,175,0.15);
+}
+.admin-content h2{
+    color:#1e3a8a;
+    font-weight:700;
+}
+
+/* INPUT */
+.form-control{
+    border-radius:10px;
+    padding:12px;
+}
+
+/* BUTTON */
+.btn-insert{
+    background:#2563eb;
+    color:#fff;
+    font-weight:600;
+    padding:12px;
+}
+.btn-insert:hover{
+    background:#1e40af;
+    color:#fff;
+}
+
+/* FOOTER */
+.admin-footer{
+    background:#1e40af;
+    color:#fff;
+    padding:18px 0;
+    margin-top:70px;
+}
+body{
+    font-family:'Poppins',sans-serif;
+    background:#eaf2ff;
+}
+
+/* ===== ADMIN NAVBAR ===== */
+.navbar{
+    background:#1e40af;
+    box-shadow:0 6px 18px rgba(0,0,0,0.15);
+}
+.navbar-brand{
+    font-weight:700;
+    color:#ffffff !important;
+    font-size:1.3rem;
+}
+.nav-link{
+    color:#e0e7ff !important;
+    margin:0 12px;
+    font-weight:500;
+    position:relative;
+}
+.nav-link:hover{
+    color:#ffffff !important;
+}
+
+/* ===== ACTIVE MENU ===== */
+.nav-link.active{
+    color:#ffffff !important;
+    font-weight:600;
+}
+.nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-6px;
+    width:100%;
+    height:3px;
+    background:#ffffff;
+    border-radius:2px;
+}
+
+/* CONTENT */
+.admin-content{
+    margin-top:120px;
+    background:#ffffff;
+    padding:40px;
+    border-radius:18px;
+    box-shadow:0 14px 40px rgba(30,64,175,0.15);
+}
+.admin-content h2{
+    font-weight:700;
+    color:#1e3a8a;
+}
+
+/* TABLE */
+.table thead{
+    background:#1e40af;
+    color:#ffffff;
+}
+.table td, .table th{
+    vertical-align:middle;
+}
+
+/* FOOTER */
+footer{
+    background:#1e40af;
+    color:#fff;
+    padding:18px 0;
+    margin-top:70px;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:#eaf2ff;
+}
+
+/* ===== ADMIN NAVBAR ===== */
+.navbar{
+    background:#1e40af;
+    box-shadow:0 6px 18px rgba(0,0,0,0.15);
+}
+.navbar-brand{
+    font-weight:700;
+    color:#ffffff !important;
+    font-size:1.3rem;
+}
+.nav-link{
+    color:#e0e7ff !important;
+    margin:0 12px;
+    font-weight:500;
+    position:relative;
+}
+.nav-link:hover{
+    color:#ffffff !important;
+}
+
+/* ===== ACTIVE MENU ===== */
+.nav-link.active{
+    color:#ffffff !important;
+    font-weight:600;
+}
+.nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-6px;
+    width:100%;
+    height:3px;
+    background:#ffffff;
+    border-radius:2px;
+}
+
+/* CONTENT */
+.admin-content{
+    margin-top:120px;
+    background:#ffffff;
+    padding:40px;
+    border-radius:18px;
+    box-shadow:0 14px 40px rgba(30,64,175,0.15);
+}
+.admin-content h2{
+    font-weight:700;
+    color:#1e3a8a;
+}
+
+/* TABLE */
+.table thead{
+    background:#1e40af;
+    color:#ffffff;
+}
+.table td, .table th{
+    vertical-align:middle;
+}
+
+/* FOOTER */
+footer{
+    background:#1e40af;
+    color:#fff;
+    padding:18px 0;
+    margin-top:70px;
+}
+body{
+    font-family:'Poppins',sans-serif;
+    background:#eaf2ff;
+}
+
+/* ===== ADMIN NAVBAR ===== */
+.navbar{
+    background:#1e40af;
+    box-shadow:0 6px 18px rgba(0,0,0,0.15);
+}
+.navbar-brand{
+    font-weight:700;
+    color:#ffffff !important;
+    font-size:1.3rem;
+}
+.nav-link{
+    color:#e0e7ff !important;
+    margin:0 12px;
+    font-weight:500;
+    position:relative;
+}
+.nav-link:hover{
+    color:#ffffff !important;
+}
+
+/* ===== ACTIVE MENU ===== */
+.nav-link.active{
+    color:#ffffff !important;
+    font-weight:600;
+}
+.nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-6px;
+    width:100%;
+    height:3px;
+    background:#ffffff;
+    border-radius:2px;
+}
+
+/* CONTENT */
+.admin-content{
+    margin-top:120px;
+    background:#ffffff;
+    padding:40px;
+    border-radius:18px;
+    box-shadow:0 14px 40px rgba(30,64,175,0.15);
+}
+.admin-content h2{
+    font-weight:700;
+    color:#1e3a8a;
+}
+
+/* TABLE */
+.table thead{
+    background:#1e40af;
+    color:#ffffff;
+}
+.table td, .table th{
+    vertical-align:middle;
+}
+
+/* FOOTER */
+footer{
+    background:#1e40af;
+    color:#fff;
+    padding:18px 0;
+    margin-top:70px;
+}
+
+/* ===== GLOBAL ===== */
+body{
+    font-family:'Poppins',sans-serif;
+    background:#eaf2ff;
+    margin:0;
+    color:#0f172a;
+}
+
+/* ===== ADMIN NAVBAR ===== */
+.navbar{
+    background:#1e40af;
+    box-shadow:0 6px 18px rgba(0,0,0,0.15);
+}
+.navbar-brand{
+    font-weight:700;
+    color:#ffffff !important;
+    font-size:1.3rem;
+}
+.nav-link{
+    color:#e0e7ff !important;
+    margin:0 12px;
+    font-weight:500;
+    position:relative;
+}
+.nav-link:hover{
+    color:#ffffff !important;
+}
+
+/* ===== ACTIVE MENU ===== */
+.nav-link.active{
+    color:#ffffff !important;
+    font-weight:600;
+}
+.nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-6px;
+    width:100%;
+    height:3px;
+    background:#ffffff;
+    border-radius:2px;
+}
+
+/* ===== ADMIN CONTENT ===== */
+.admin-content{
+    margin-top:130px;
+    background:#ffffff;
+    padding:45px;
+    border-radius:18px;
+    box-shadow:0 14px 40px rgba(30,64,175,0.15);
+}
+.admin-content h2{
+    font-weight:700;
+    color:#1e3a8a;
+}
+.admin-content h5{
+    margin-top:30px;
+    font-weight:600;
+    color:#1e40af;
+}
+.admin-content p{
+    color:#475569;
+    line-height:1.8;
+    margin-top:12px;
+}
+
+/* ===== FOOTER ===== */
+.admin-footer{
+    background:#1e40af;
+    color:#ffffff;
+    padding:18px 0;
+    margin-top:70px;
+    font-size:0.9rem;
+}
+
+/* ===== GLOBAL ===== */
+body{
+    font-family:'Poppins',sans-serif;
+    background:#eaf2ff;
+    margin:0;
+}
+
+/* ===== ADMIN NAVBAR ===== */
+.navbar{
+    background:#1e40af;
+    box-shadow:0 6px 18px rgba(0,0,0,0.15);
+}
+.navbar-brand{
+    font-weight:700;
+    color:#ffffff !important;
+    font-size:1.3rem;
+}
+.nav-link{
+    color:#e0e7ff !important;
+    margin:0 12px;
+    font-weight:500;
+    position:relative;
+}
+.nav-link:hover{
+    color:#ffffff !important;
+}
+
+/* ===== ACTIVE MENU ===== */
+.nav-link.active{
+    color:#ffffff !important;
+    font-weight:600;
+}
+.nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-6px;
+    width:100%;
+    height:3px;
+    background:#ffffff;
+    border-radius:2px;
+}
+
+/* ===== LOGIN AREA ===== */
+.login-wrapper{
+    min-height:calc(100vh - 140px);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding-top:80px;
+}
+
+/* LOGIN CARD */
+.login-card{
+    background:#ffffff;
+    padding:40px;
+    border-radius:18px;
+    box-shadow:0 18px 45px rgba(30,64,175,0.2);
+    max-width:420px;
+    width:100%;
+}
+.login-card h2{
+    color:#1e3a8a;
+    font-weight:700;
+}
+
+/* INPUT */
+.form-control{
+    border-radius:10px;
+    padding:12px;
+}
+
+/* BUTTON */
+.btn-login{
+    background:#2563eb;
+    color:#fff;
+    font-weight:600;
+    padding:12px;
+    border-radius:10px;
+}
+.btn-login:hover{
+    background:#1e40af;
+    color:#fff;
+}
+
+/* FOOTER */
+.admin-footer{
+    background:#1e40af;
+    color:#fff;
+    padding:18px 0;
+    margin-top:70px;
+}
+body{
+    font-family:'Poppins',sans-serif;
+    background:#eaf2ff;
+    margin:0;
+}
+
+/* ===== ADMIN NAVBAR ===== */
+.navbar{
+    background:#1e40af;
+    box-shadow:0 6px 18px rgba(0,0,0,0.15);
+}
+.navbar-brand{
+    font-weight:700;
+    color:#ffffff !important;
+    font-size:1.3rem;
+}
+.nav-link{
+    color:#e0e7ff !important;
+    margin:0 12px;
+    font-weight:500;
+    position:relative;
+}
+.nav-link:hover{
+    color:#ffffff !important;
+}
+
+/* ===== ACTIVE MENU ===== */
+.nav-link.active{
+    color:#ffffff !important;
+    font-weight:600;
+}
+.nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-6px;
+    width:100%;
+    height:3px;
+    background:#ffffff;
+    border-radius:2px;
+}
+
+/* CONTENT */
+.admin-content{
+    margin-top:120px;
+    background:#fff;
+    padding:40px;
+    border-radius:18px;
+    box-shadow:0 14px 40px rgba(30,64,175,0.15);
+}
+.admin-content h2{
+    color:#1e3a8a;
+    font-weight:700;
+}
+
+/* TABLE */
+.table thead{
+    background:#1e40af;
+    color:#fff;
+}
+.table img{
+    width:70px;
+    height:50px;
+    object-fit:cover;
+    border-radius:8px;
+}
+
+/* BUTTONS */
+.btn-insert{
+    background:#2563eb;
+    color:#fff;
+    font-weight:600;
+}
+
+/* FOOTER */
+.admin-footer{
+    background:#1e40af;
+    color:#fff;
+    padding:18px 0;
+    margin-top:70px;
+}
+body{
+    background:#eaf2ff;
+    font-family:'Poppins',sans-serif;
+}
+
+/* ===== ADMIN NAVBAR ===== */
+.navbar{
+    background:#1e40af;
+    box-shadow:0 6px 18px rgba(0,0,0,0.15);
+}
+.navbar-brand{
+    font-weight:700;
+    color:#ffffff !important;
+    font-size:1.3rem;
+}
+.nav-link{
+    color:#e0e7ff !important;
+    margin:0 12px;
+    font-weight:500;
+    position:relative;
+}
+.nav-link:hover{
+    color:#ffffff !important;
+}
+
+/* ===== ACTIVE MENU ===== */
+.nav-link.active{
+    color:#ffffff !important;
+    font-weight:600;
+}
+.nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-6px;
+    width:100%;
+    height:3px;
+    background:#ffffff;
+    border-radius:2px;
+}
+
+/* ===== CARD ===== */
+.admin-card{
+    margin-top:120px;
+    background:#ffffff;
+    padding:40px;
+    border-radius:18px;
+    box-shadow:0 14px 40px rgba(30,64,175,0.15);
+}
+.admin-card h3{
+    font-weight:700;
+    color:#1e3a8a;
+}
+
+/* ===== FORM ===== */
+.form-label{
+    font-weight:600;
+    color:#334155;
+}
+.form-control{
+    border-radius:10px;
+    padding:12px;
+}
+.form-control:focus{
+    box-shadow:none;
+    border-color:#2563eb;
+}
+
+/* ===== BUTTON ===== */
+.btn-update{
+    background:#2563eb;
+    color:#fff;
+    font-weight:600;
+    padding:12px;
+    border-radius:12px;
+}
+.btn-update:hover{
+    background:#1e40af;
+    color:#fff;
+}
+
+/* ===== IMAGE ===== */
+.preview-img{
+    border-radius:12px;
+    border:1px solid #e5e7eb;
+}
+
+/* ===== FOOTER ===== */
+footer{
+    background:#1e40af;
+    color:#fff;
+    padding:25px 0;
+    margin-top:70px;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:#eaf2ff;
+}
+
+/* ===== ADMIN NAVBAR ===== */
+.navbar{
+    background:#1e40af;
+    box-shadow:0 6px 18px rgba(0,0,0,0.15);
+}
+.navbar-brand{
+    font-weight:700;
+    color:#ffffff !important;
+    font-size:1.3rem;
+}
+.nav-link{
+    color:#e0e7ff !important;
+    margin:0 12px;
+    font-weight:500;
+    position:relative;
+}
+.nav-link:hover{
+    color:#ffffff !important;
+}
+
+/* ===== ACTIVE MENU ===== */
+.nav-link.active{
+    color:#ffffff !important;
+    font-weight:600;
+}
+.nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:0;
+    bottom:-6px;
+    width:100%;
+    height:3px;
+    background:#ffffff;
+    border-radius:2px;
+}
+
+/* CONTENT */
+.admin-content{
+    margin-top:120px;
+    background:#ffffff;
+    padding:40px;
+    border-radius:18px;
+    box-shadow:0 14px 40px rgba(30,64,175,0.15);
+}
+.admin-content h2{
+    font-weight:700;
+    color:#1e3a8a;
+}
+
+/* TABLE */
+.table thead{
+    background:#1e40af;
+    color:#ffffff;
+}
+.table td, .table th{
+    vertical-align:middle;
+}
+
+/* FOOTER */
+footer{
+    background:#1e40af;
+    color:#fff;
+    padding:18px 0;
+    margin-top:70px;
+}
+
+/* ===== BUTTON ===== */
+.btn-bill{
+    background:#2563eb;
+    color:#fff;
+    border-radius:10px;
+    font-weight:500;
+}
+.btn-bill:hover{
+    background:#1e40af;
+    color:#fff;
+}
+
+/* ===== TOTAL CELL ===== */
+.total-cell{
+    font-weight:700;
+}
+
+/* ===== PASSWORD EYE ICON ===== */
+.password-toggle{
+    position:absolute;
+    top:38px;
+    right:15px;
+    cursor:pointer;
+    font-size:18px;
+    color:#2563eb;
+    user-select:none;
+}
+/* ===== GLOBAL ===== */
+body{
+    font-family:'Poppins', sans-serif;
+    background:#eaf2ff;
+    margin:0;
+}
+
+/* ===== NAVBAR ===== */
+.navbar{
+    background:#1e40af;
+    box-shadow:0 6px 18px rgba(0,0,0,0.15);
+}
+.navbar-brand{
+    font-weight:700;
+    font-size:1.3rem;
+    color:#ffffff !important;
+}
+.nav-link{
+    color:#e0e7ff !important;
+    margin:0 12px;
+    font-weight:500;
+}
+.nav-link:hover{
+    color:#ffffff !important;
+}
+
+/* ===== CONTENT ===== */
+.admin-content{
+    margin-top:120px;
+    background:#ffffff;
+    padding:40px;
+    border-radius:18px;
+    box-shadow:0 14px 40px rgba(30,64,175,0.15);
+}
+
+/* ===== TABLE ===== */
+.table thead{
+    background:#1e40af;
+    color:#ffffff;
+}
+.table td, .table th{
+    vertical-align:middle;
+}
+
+/* ===== BUTTONS ===== */
+.btn-insert{
+    background:#2563eb;
+    color:#ffffff;
+    font-weight:600;
+    border-radius:10px;
+    padding:10px 16px;
+}
+.btn-insert:hover{
+    background:#1e40af;
+    color:#ffffff;
+}
+
+/* 🔴 UPDATE & DELETE SAME STYLE */
+.btn-update,
+.btn-delete{
+    background:#dc2626;
+    color:#ffffff;
+    font-weight:600;
+    border-radius:10px;
+    padding:8px 14px;
+    border:none;
+}
+.btn-update:hover,
+.btn-delete:hover{
+    background:#b91c1c;
+    color:#ffffff;
+}
+
+/* ===== FOOTER ===== */
+.admin-footer{
+    background:#1e40af;
+    color:#ffffff;
+    padding:18px 0;
+    margin-top:70px;
+}
